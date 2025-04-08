@@ -97,7 +97,7 @@ h1 {
 
 .completed {
   text-decoration: line-through;
-  color: #888;
+  color: #ec0808;
 }
 
 .task-actions {
